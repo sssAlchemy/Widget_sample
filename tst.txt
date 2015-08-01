@@ -1,2 +1,6 @@
-safsdjkjak
+<?php
 
+class skladj extends sklfadkk
+{
+
+}
